@@ -163,7 +163,7 @@
       width: 100%;
     }
   #extend> .col-md-6{
-    	float: none;
+    	clear: left;
     	width: 100%;
     }
   }
